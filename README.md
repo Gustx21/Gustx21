@@ -10,8 +10,7 @@
 
 <h2>Projetos Destacados</h2>
 <ol>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
+  <li><a href="">Arte de Divulgação para Freehelper</a>: A arte ajudou uma ONG para colaboração de um projeto direcionado à crianças autista.</li>
 </ol>
 
 <h2>📫Contato</h2>

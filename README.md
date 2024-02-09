@@ -1,16 +1,24 @@
-<h1>Olá!👋</h1>
-<p>Bem-vindo ao meu perfil do GitHub! Eu sou Gustavo, um entusiasta da web apaixonado por criar experiências incríveis online. Aqui estão algumas informações sobre o que você pode encontrar neste perfil:</p>
+<h1>Olá, meu nome é Gustavo! Tudo bem?👋</h1>
+<p>Bem-vindo ao meu perfil do GitHub! Eu sou Gustavo, um entusiasta da web apaixonado por criar experiências incríveis online.</p>
+
+<ul>
+  <li>📚Cursando <strong>Análise e Desenvolvimento de Sistemas.</strong></li>
+  <li>📌Atualmente estou criando vários projetos para aprimorar minhas habilidades. Como também, ajudando a ONG FreeHelper na Edição de imagens.</li>
+  <li>📂Estou procurando ajuda no projeto em <strong>Aprimoramento de Funcionalidade</strong> e <strong>Integração de Padrões de Código</strong>.</li>
+</ul>
 
 <h2>⚡Tecnologias</h2>
-<ol>
-  <li><strong>HTML5</strong>: Especializado em criar estruturas semânticas e acessíveis para uma web moderna.</li>
-  <li><strong>CSS3</strong>: Profeciente em estilos elegantes, responsivos e animações para uma experiência visual atraente.</li>
-  <li><strong>JavaScript</strong>: Apaixonado por desenvolver interatividade e dinamismo, tornando a web mais envolvente.</li>
-</ol>
+<ul type="square">
+  <li><strong>HTML5:</strong> Especializado em criar estruturas semânticas e acessíveis para uma web moderna.</li>
+  <li><strong>CSS3:</strong> Profeciente em estilos elegantes, responsivos e animações para uma experiência visual atraente.</li>
+  <li><strong>JavaScript:</strong> Apaixonado por desenvolver interatividade e dinamismo, tornando a web mais envolvente.</li>
+</ul>
 
-<h2>📫Contato</h2>
-<ol>
-  <li><a href="">Instagram</a></li>
-  <li><a href="">Twitter</a></li>
-</ol>
-<p>Sinta-se à vontade para explorar meus repositórios e entre em contato se tiver alguma pergunta ou colaboração em monte. Vamos construir a web juntos!</p>
+<br>
+<div align="center">
+  <a href="https://github.com/gustx21">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gustx21&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustx21&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
+
+

@@ -4,7 +4,7 @@
 <ul>
   <li>📚Cursando <strong>Análise e Desenvolvimento de Sistemas.</strong></li>
   <li>📌Atualmente estou criando vários projetos para aprimorar minhas habilidades. Como também, ajudando a ONG FreeHelper na Edição de imagens.</li>
-  <li>📂Estou procurando ajuda no projeto em <strong>Aprimoramento de Funcionalidade</strong> e <strong>Integração de Padrões de Código</strong>.</li>
+  <li>📂Estou procurando ajuda no projeto em <strong>Aprimoramento de Funcionalidade</strong> e <strong>Integração de Padrões de Código.</strong></li>
 </ul>
 
 <h2>⚡Tecnologias</h2>

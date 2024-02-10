@@ -1,5 +1,5 @@
 <h1>Olá, meu nome é Gustavo! Tudo bem?👋</h1>
-<p>Bem-vindo ao meu perfil do GitHub! Eu sou Gustavo, um entusiasta da web apaixonado por criar experiências incríveis online.</p>
+<p>Bem-vindo ao meu perfil do GitHub! Eu sou um entusiasta da web apaixonado por criar experiências incríveis online.</p>
 
 <ul>
   <li>📚Cursando <strong>Análise e Desenvolvimento de Sistemas.</strong></li>
@@ -10,8 +10,8 @@
 <h2>⚡Tecnologias</h2>
 <ul type="square">
   <li><strong>HTML5:</strong> Especializado em criar estruturas semânticas e acessíveis para uma web moderna.</li>
-  <li><strong>CSS3:</strong> Profeciente em estilos elegantes, responsivos e animações para uma experiência visual atraente.</li>
-  <li><strong>JavaScript:</strong> Apaixonado por desenvolver interatividade e dinamismo, tornando a web mais envolvente.</li>
+  <li><strong>CSS3:</strong> Profeciente em estilos elegantes, responsivos e animações para uma boa experiência visual.</li>
+  <li><strong>JavaScript:</strong> Aprendendo a desenvolver interatividade e dinamismo nos projetos.</li>
 </ul>
 
 <br>

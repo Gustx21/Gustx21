@@ -13,6 +13,22 @@
   <li><strong>CSS3:</strong> Profeciente em estilos elegantes, responsivos e animações para uma boa experiência visual.</li>
   <li><strong>JavaScript:</strong> Aprendendo a desenvolver interatividade e dinamismo nos projetos.</li>
 </ul>
+<hr>
+<h1>Hello, my name is Gustavo! Is everything ok?😊</h1>
+<p>Welcome to my GitHub profile! I'm a web enthusiast passionate about creating amazing experiences online.</p>
+
+<ul>
+  <li>📚Studying <strong>Systems Analysis and Development.</strong></li>
+  <li>📌I'm currently creating several projects to improve my skills. As well as helping the NGO FreeHelper with image editing.</li>
+  <li>📂I'm looking for project heelp in <strong>Functionality Enhancement</strong> and <strong>Codee Standards Integration.</strong></li>
+</ul>
+
+<h2>Technologies</h2>
+<ul type="square">
+  <li><strong>HTML5:</strong> Specialized in creating semantic and accessible structures for a modern web.</li>
+  <li><strong>CSS3:</strong> Proficient in elegant, responsive styles and animations for a good visual experience.</li>
+  <li><strong>JavaScript:</strong> Learning to develop interactivity and dynamism in projects.</li>
+</ul>
 
 <br>
 <div align="center">

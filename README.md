@@ -23,7 +23,7 @@
   <li>📂I'm looking for project heelp in <strong>Functionality Enhancement</strong> and <strong>Codee Standards Integration.</strong></li>
 </ul>
 
-<h2>Technologies</h2>
+<h2>⚡Technologies</h2>
 <ul type="square">
   <li><strong>HTML5:</strong> Specialized in creating semantic and accessible structures for a modern web.</li>
   <li><strong>CSS3:</strong> Proficient in elegant, responsive styles and animations for a good visual experience.</li>

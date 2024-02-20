@@ -4,7 +4,7 @@
 <ul>
   <li>📚Studying <strong>Systems Analysis and Development.</strong></li>
   <li>📌I'm currently creating several projects to improve my skills. As well as helping the NGO FreeHelper with image editing.</li>
-  <li>📂I'm looking for project heelp in <strong>Functionality Enhancement</strong> and <strong>Codee Standards Integration.</strong></li>
+  <li>📂I'm looking for project help in <strong>Functionality Enhancement</strong> and <strong>Codee Standards Integration.</strong></li>
 </ul>
 
 <h2>⚡Technologies</h2>

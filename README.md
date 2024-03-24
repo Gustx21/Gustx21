@@ -12,6 +12,7 @@
   <li><strong>HTML5:</strong> Specialized in creating semantic and accessible structures for a modern web.</li>
   <li><strong>CSS3:</strong> Proficient in elegant, responsive styles and animations for a good visual experience.</li>
   <li><strong>JavaScript:</strong> Learning to develop interactivity and dynamism in projects.</li>
+  <li><strong>SQL:</strong> Developing query and change skills in the SQL Server Database.</li>
 </ul>
 
 <br>

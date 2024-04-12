@@ -13,7 +13,7 @@
   <li><strong>CSS3:</strong> Proficient in elegant, responsive styles and animations for a good visual experience.</li>
   <li><strong>JavaScript:</strong> Learning to develop interactivity and dynamism in projects.</li>
   <li><strong>SQL:</strong> Developing query and change skills in the SQL Server Database.</li>
-  <li><strong>NodeJS:</strong> Committed to crafting remarkable applications with Node.js and passionate about tackling programming challenges.</li>
+  <li><strong>NodeJS:</strong> Committed to crafting remarkable applications and passionate about tackling programming challenges.</li>
 </ul>
 
 <br>

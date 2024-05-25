@@ -1,25 +1,20 @@
-<h1>Hello, my name is Gustavo! Is everything ok?😊</h1>
-<p>Welcome to my GitHub profile! I'm a web enthusiast passionate about creating amazing experiences online.</p>
+# Sou o Gustavo
+> * 📚 Estudante de **Análise e Desenvolvimento de Sistemas**.
+> * 📌 Atualmente trabalhando em __projetos pessoais__.
+> * 📖 No momento aprendendo sobre **Sistema de Versionamento de Arquivos (Git)**.
+> * 📂 Estou procurando ingressar no **Mercado de Devs**.
 
-<ul>
-  <li>📚Studying <strong>Systems Analysis and Development.</strong></li>
-  <li>📌I'm currently creating several projects to improve my skills. As well as helping the NGO FreeHelper with image editing.</li>
-  <li>📂I'm looking for project help in <strong>Functionality Enhancement</strong> and <strong>Code Standards Integration.</strong></li>
-</ul>
+## 💻 Tecnlogias
+> * **HTML5**
+> * **CSS3**
+> * **JavaScript**
+> * **SQL**
+> * **Node JS**
+> * **Git**
 
-<h2>⚡Technologies</h2>
-<ul type="square">
-  <li><strong>HTML5:</strong> Specialized in creating semantic and accessible structures for a modern web.</li>
-  <li><strong>CSS3:</strong> Proficient in elegant, responsive styles and animations for a good visual experience.</li>
-  <li><strong>JavaScript:</strong> Learning to develop interactivity and dynamism in projects.</li>
-  <li><strong>SQL:</strong> Developing query and change skills in the SQL Server Database.</li>
-  <li><strong>NodeJS:</strong> Committed to crafting remarkable applications.</li>
-</ul>
+### Links
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto://gugamathiaz12@gmail.com)
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Gustx21)
 
-<br>
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gustx21&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustx21&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-
-
+[![Detalhe do perfil de Gustx21](https://github-readme-stats.vercel.app/api?username=gustx21&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)](https://github.com/Gustx21)
+[![Detalhe do perfil de Gustx21](https://github-readme-stats.vercel.app/api/top-langs/?username=gustx21&layout=compact&langs_count=7&theme=github_dark)](https://github.com/Gustx21)

@@ -1,8 +1,8 @@
 # Sou o Gustavo 🤟
 > * 📚 Estudante de **Análise e Desenvolvimento de Sistemas**.
-> * 📌 Atualmente trabalhando em __projetos pessoais__.
+> * 📂 Atualmente trabalhando em __projetos pessoais__.
 > * 📖 No momento aprendendo sobre **Sistema de Versionamento de Arquivos (Git)**.
-> * 📂 Estou procurando ingressar no **Mercado de Devs**.
+> * 📌 Estou procurando ingressar no **Mercado de Devs**.
 
 ## 💻 Tecnlogias
 > * **HTML5**

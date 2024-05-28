@@ -4,7 +4,7 @@
 > * 📖 No momento aprendendo sobre **Sistema de Versionamento de Arquivos (Git)**.
 > * 📌 Estou procurando ingressar no **Mercado de Devs**.
 
-## 💻 Tecnlogias
+## 💻 Tecnologias
 > * **HTML5**
 > * **CSS3**
 > * **JavaScript**
@@ -12,7 +12,7 @@
 > * **Node JS**
 > * **Git**
 
-### Links
+### Links 🔗
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto://gugamathiaz12@gmail.com)
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Gustx21)
 

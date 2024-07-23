@@ -11,6 +11,7 @@
 > * **SQL**
 > * **Node JS**
 > * **Git**
+> * **React**
 
 ### Links 🔗
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto://gugamathiaz12@gmail.com)

@@ -2,6 +2,7 @@
 > * 📚 Estudante de **Análise e Desenvolvimento de Sistemas**.
 > * 📂 Atualmente trabalhando em __projetos pessoais__.
 > * 📖 No momento aprendendo sobre **Sistema de Versionamento de Arquivos (Git)**.
+> * 🎯 Meu foco é me tornar Dev FullStack
 > * 📌 Estou procurando ingressar no **Mercado de Devs**.
 
 ## 💻 Tecnologias
@@ -16,6 +17,7 @@
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=C468DB)
 
 ![React](https://img.shields.io/badge/-ReactJS-000000?style=for-the-badge&logo=react&logoColor=26a5bf)
+![Fastify](https://img.shields.io/badge/-Fastify-000000?style=for-the-badge&logo=fastify&logoColor=26a5bf)
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=bf230f)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=fff)

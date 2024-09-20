@@ -5,13 +5,20 @@
 > * 📌 Estou procurando ingressar no **Mercado de Devs**.
 
 ## 💻 Tecnologias
-> * **HTML5**
-> * **CSS3**
-> * **JavaScript**
-> * **SQL**
-> * **Node JS**
-> * **Git**
-> * **React JS**
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=f5ec42)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=0e81ed)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=4ba12f)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=ed5c0e)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=0e81ed)
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=306820)
+![Prisma](https://img.shields.io/badge/-Prisma-000000?style=for-the-badge&logo=prisma&logoColor=26a5bf)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=C468DB)
+
+![React](https://img.shields.io/badge/-ReactJS-000000?style=for-the-badge&logo=react&logoColor=26a5bf)
+
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=bf230f)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=fff)
 
 ### Links 🔗
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto://gugamathiaz12@gmail.com)

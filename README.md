@@ -2,20 +2,19 @@
 > * 📚 Estudante de **Análise e Desenvolvimento de Sistemas**.
 > * 📂 Atualmente trabalhando em __projetos pessoais__.
 > * 📖 No momento aprendendo sobre **Sistema de Versionamento de Arquivos (Git)**.
-> * 🎯 Meu foco é me tornar Dev FullStack
+> * 🎯 Meu foco é me tornar **Dev FullStack**
 > * 📌 Estou procurando ingressar no **Mercado de Devs**.
 
 ## 💻 Tecnologias
  ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=f5ec42)
  ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=0e81ed)
+ ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=4ba12f)
  
  ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=ed5c0e)
  ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=0e81ed)
  
  ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=306820)
  ![Postgres](https://img.shields.io/badge/-Postgres-000000?style=for-the-badge&logo=postgresql&logoColor=26a5bf)
- 
- ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=4ba12f)
  
 ### Framework
  ![React](https://img.shields.io/badge/-ReactJS-000000?style=for-the-badge&logo=react&logoColor=26a5bf)

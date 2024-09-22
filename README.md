@@ -1,7 +1,7 @@
 # Sou o Gustavo 🤟
 > * 📚 Estudante de **Análise e Desenvolvimento de Sistemas**.
 > * 📂 Atualmente trabalhando em __projetos pessoais__.
-> * 📖 No momento aprendendo sobre **Sistema de Versionamento de Arquivos (Git)**.
+> * 📖 No momento aprendendo sobre **TypeScript e React**.
 > * 🎯 Meu foco é me tornar **Dev FullStack**
 > * 📌 Estou procurando ingressar no **Mercado de Devs**.
 

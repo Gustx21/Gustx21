@@ -7,6 +7,11 @@
 > * 🎯 Meu foco é me tornar **Dev FullStack**
 > * 📌 Estou procurando ingressar no **Mercado de Devs**.
 
+#### Redes Sociais
+ [![Gmail](https://img.shields.io/badge/Gmail-2A2B2A?style=for-the-badge&logo=gmail&logoColor=white)](mailto://gugamathiaz12@gmail.com)
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-347FC4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Gustx21)
+ [![Instagram](https://img.shields.io/badge/-Instagram-ED6A5A?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Gustx_21)
+
 ## 💻 Tecnologias
 Linguagens | Banco de Dados | Framework | Ferramentas
 :---: | :---: | :---: | :---:
@@ -23,7 +28,3 @@ Linguagens | Banco de Dados | Framework | Ferramentas
 
 ## Gráfico
  [![Gráfico de atividades](https://github-readme-activity-graph.vercel.app/graph?username=gustx21&radius=16&theme=react&area=true&order=5")](https://github.com/Gustx21)
-
-### Links 🔗
- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto://gugamathiaz12@gmail.com)
- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Gustx21)

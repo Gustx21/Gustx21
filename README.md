@@ -2,10 +2,11 @@
 
 # Sou o Gustavo 🤟
 > * 📚 Estudante de **Análise e Desenvolvimento de Sistemas**.
-> * 📂 Atualmente trabalhando em __projetos pessoais__.
+> * 📂 Atualmente trabalhando em **Projetos Pessoais**.
 > * 📖 No momento aprendendo sobre **TypeScript e React**.
 > * 🎯 Meu foco é me tornar **Dev FullStack**
 > * 📌 Estou procurando ingressar no **Mercado de Devs**.
+
 ---
  [![Gmail](https://img.shields.io/badge/Gmail-2A2B2A?style=for-the-badge&logo=gmail&logoColor=white)](mailto://gugamathiaz12@gmail.com)
  [![Linkedin](https://img.shields.io/badge/LinkedIn-347FC4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Gustx21)
@@ -20,10 +21,8 @@ Linguagens | Banco de Dados | Framework | Ferramentas
  ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=0e81ed) | | ![Fastify](https://img.shields.io/badge/-Fastify-000000?style=for-the-badge&logo=fastify&logoColor=26a5bf) | ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=4ba12f)
 
 ---
- [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gustx21&layout=compact&langs_count=7&theme=github_dark)](https://github.com/Gustx21)
+ ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gustx21&layout=compact&langs_count=7&theme=github_dark)
+ 
+ ![Detalhe do perfil de Gustx21](https://github-readme-stats.vercel.app/api?username=gustx21&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
 
----
- [![Detalhe do perfil de Gustx21](https://github-readme-stats.vercel.app/api?username=gustx21&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)](https://github.com/Gustx21)
-
----
- [![Gráfico de atividades](https://github-readme-activity-graph.vercel.app/graph?username=gustx21&radius=16&theme=react&area=true&order=5")](https://github.com/Gustx21)
+ ![Gráfico de atividades](https://github-readme-activity-graph.vercel.app/graph?username=gustx21&radius=16&theme=react&area=true&order=5")

@@ -3,7 +3,7 @@
 # Sou o Gustavo 🤟
 > * 📚 Estudante de **Análise e Desenvolvimento de Sistemas**.
 > * 📂 Atualmente trabalhando em **Projetos Pessoais**.
-> * 📖 No momento aprendendo sobre **TypeScript e React**.
+> * 📖 No momento aprendendo sobre **PHP**.
 > * 🎯 Meu foco é me tornar **Dev FullStack**
 > * 📌 Estou procurando ingressar no **Mercado de Devs**.
 
@@ -19,7 +19,7 @@ Linguagens | Banco de Dados | Framework | Ferramentas
  ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=0e81ed) | ![Postgres](https://img.shields.io/badge/-Postgres-000000?style=for-the-badge&logo=postgresql&logoColor=26a5bf) | ![Prisma](https://img.shields.io/badge/-Prisma-000000?style=for-the-badge&logo=prisma&logoColor=26a5bf) | ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=fff)
  ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=ed5c0e) | ![SQLServer](https://img.shields.io/badge/-SQLServer-000000?style=for-the-badge&logo=SQLServer&logoColor=4ba12f) | ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=C468DB) | ![Npm](https://img.shields.io/badge/-Npm-000000?style=for-the-badge&logo=npm&logoColor=C70601)
  ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=0e81ed) | | ![Fastify](https://img.shields.io/badge/-Fastify-000000?style=for-the-badge&logo=fastify&logoColor=26a5bf) | ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=4ba12f)
-
+ ![PHP](https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=PHP&logoColor=C468DB)
 ---
  ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gustx21&layout=compact&langs_count=7&theme=github_dark)
 ---

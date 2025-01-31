@@ -1,4 +1,4 @@
-[![Capa do meu linkedIn](https://media.licdn.com/dms/image/v2/D4D16AQE5HLFlXhgBbA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727297962588?e=1738800000&v=beta&t=2BNJMYYA7FtoSFLJYyGB_gUuOV4SflasySpMKFbgeT4)](https://www.linkedin.com/in/Gustx21)
+[![Capa do meu linkedIn](https://media.licdn.com/dms/image/v2/D4D16AQHqBUzrH2MQGg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738332994743?e=1743638400&v=beta&t=lugmXx4Irh7FFe4g3WpGcBH-57FmzUgDtnhzJ4d6rQ8)](https://www.linkedin.com/in/Gustx21)
 
 # Sou o Gustavo 🤟
 > * 📚 Estudante de **Análise e Desenvolvimento de Sistemas**.

@@ -1,16 +1,15 @@
-![Capa do meu linkedIn](https://media.licdn.com/dms/image/v2/D4D16AQE8h8sdFHukbw/profile-displaybackgroundimage-shrink_350_1400/B4DZWZ4w_wH4AY-/0/1742043571047?e=1747267200&v=beta&t=RMlyFZjs4gbnNHAcdPqZxlQgmPHt8sKUVk4FzmtOaTc)
-
 # Sou o Gustavo 🤟
-> * 📚 Estudante de **Análise e Desenvolvimento de Sistemas**.
-> * 📂 Atualmente trabalhando em **Projetos Pessoais**.
-> * 📖 No momento aprendendo sobre **PHP**.
-> * 🎯 Meu foco é me tornar **Dev FullStack**
-> * 📌 Estou procurando ingressar no **Mercado de Devs**.
+* 📚 Estudante de **Análise e Desenvolvimento de Sistemas**.
+* 📂 Atualmente trabalhando em **Projetos Pessoais**.
+* 📖 No momento aprendendo sobre **Python**.
+* 🎯 Meu foco é me tornar **Dev FullStack** e **Cientista de Dados**
+* 📌 Estou procurando ingressar no **Área de Desenvolvedores**.
 
----
  [![Gmail](https://img.shields.io/badge/Gmail-2A2B2A?style=for-the-badge&logo=gmail&logoColor=white)](mailto://gugamathiaz12@gmail.com)
  [![Linkedin](https://img.shields.io/badge/LinkedIn-347FC4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Gustx21)
  [![Instagram](https://img.shields.io/badge/-Instagram-ED6A5A?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Gustx_21)
+
+---
 
 ## 💻 Tecnologias
 Linguagens | Banco de Dados | Ferramentas | Framework | Libs

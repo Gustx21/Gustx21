@@ -17,7 +17,6 @@ Estou procurando ingressar no **Área de Desenvolvedores** com o objetivo de apr
 ![React](https://img.shields.io/badge/-ReactJS-000000?style=for-the-badge&logo=react&logoColor=26a5bf)
 ![Node](https://img.shields.io/badge/-Nodejs-000000?style=for-the-badge&logo=node.js&logoColor=306820)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=ed5c0e)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=0e81ed) 
 ![Postgres](https://img.shields.io/badge/-Postgres-000000?style=for-the-badge&logo=postgresql&logoColor=26a5bf)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=306820)
 

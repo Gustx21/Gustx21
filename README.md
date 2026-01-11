@@ -2,9 +2,17 @@
 **`Dev FullStack`**
 **`Data Analytic`**
 
+`Em Português`
+
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em me tornar **Dev FullStack** e **Cientista de Dados**. Atualmente trabalhando em **Projetos Pessoais** e aprendendo sobre **Python**.
 
 Estou procurando ingressar no **Área de Desenvolvedores** com o objetivo de aprimorar minhas habilidades acadêmicas e evoluir constantemente como profissional.
+
+`In English`
+
+I am a student of **Systems Analysis and Development**, focused on becoming a **Full-Stack Developer** and **Data Scientist**. Currently working on **personal projects** and learning **Python**.
+
+I am looking to enter the **Developer** field to improve my academic skills and constantly evolve professionally.
 
  [![Gmail](https://img.shields.io/badge/Gmail-2A2B2A?style=for-the-badge&logo=gmail&logoColor=white)](mailto://gustavo.andrs21@gmail.com)
  [![Linkedin](https://img.shields.io/badge/LinkedIn-347FC4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Gustx21)

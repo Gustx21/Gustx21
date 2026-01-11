@@ -19,6 +19,3 @@ Estou procurando ingressar no **Área de Desenvolvedores** com o objetivo de apr
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=ed5c0e)
 ![Postgres](https://img.shields.io/badge/-Postgres-000000?style=for-the-badge&logo=postgresql&logoColor=26a5bf)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=306820)
-
-<img align='left' alt='Detalhe do perfil de Gustx21' height='200' src='https://github-readme-stats.vercel.app/api?username=gustx21&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br'>
-<img align='left' alt='Linguagens mais usada' height='200' src='https://github-readme-stats.vercel.app/api/top-langs/?username=gustx21&theme=tokyonight&custom_title=Tecnologias&langs_count=4'>

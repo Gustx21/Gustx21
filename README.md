@@ -27,3 +27,4 @@ I am looking to enter the **Developer** field to improve my academic skills and 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=ed5c0e)
 ![Postgres](https://img.shields.io/badge/-Postgres-000000?style=for-the-badge&logo=postgresql&logoColor=26a5bf)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=306820)
+![Python](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=python&logoColor=26a5bf)

@@ -20,14 +20,15 @@ I am looking to enter the **Developer** field to improve my academic skills and 
 
 ---
 ### 💻 Tecnologias
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=f5ec42)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=0e81ed)
-![React](https://img.shields.io/badge/-ReactJS-000000?style=for-the-badge&logo=react&logoColor=26a5bf)
-![Node](https://img.shields.io/badge/-Nodejs-000000?style=for-the-badge&logo=node.js&logoColor=306820)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=blue)
+![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=blue)
+![Node](https://img.shields.io/badge/-Node-000000?style=for-the-badge&logo=node.js&logoColor=306820)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=ed5c0e)
-![Postgress](https://img.shields.io/badge/-Postgress-000000?style=for-the-badge&logo=postgresql&logoColor=26a5bf)
+![Postgress](https://img.shields.io/badge/-Postgress-000000?style=for-the-badge&logo=postgresql&logoColor=blue)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=306820)
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=26a5bf)
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=blue)
 ![Supabase](https://img.shields.io/badge/-Supabase-000000?style=for-the-badge&logo=supabase&logoColor=306820)
 ![Render](https://img.shields.io/badge/-Render-000000?style=for-the-badge&logo=render&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=blue)
